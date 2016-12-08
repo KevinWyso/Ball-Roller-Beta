@@ -1,0 +1,52 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R9 200 Series (ID=0x67b1)
+    Vendor:   ATI
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Filed\Programs\Unity\Projects\Make a Game - Tutorials\3d Platformer Practice\Builds\Windows_FinalBetaBuild\FinalBetaBuild_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Filed\Programs\Unity\Projects\Make a Game - Tutorials\3d Platformer Practice\Builds\Windows_FinalBetaBuild\FinalBetaBuild_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Filed\Programs\Unity\Projects\Make a Game - Tutorials\3d Platformer Practice\Builds\Windows_FinalBetaBuild\FinalBetaBuild_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Filed\Programs\Unity\Projects\Make a Game - Tutorials\3d Platformer Practice\Builds\Windows_FinalBetaBuild\FinalBetaBuild_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Filed\Programs\Unity\Projects\Make a Game - Tutorials\3d Platformer Practice\Builds\Windows_FinalBetaBuild\FinalBetaBuild_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Filed\Programs\Unity\Projects\Make a Game - Tutorials\3d Platformer Practice\Builds\Windows_FinalBetaBuild\FinalBetaBuild_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Filed\Programs\Unity\Projects\Make a Game - Tutorials\3d Platformer Practice\Builds\Windows_FinalBetaBuild\FinalBetaBuild_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Filed\Programs\Unity\Projects\Make a Game - Tutorials\3d Platformer Practice\Builds\Windows_FinalBetaBuild\FinalBetaBuild_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Filed\Programs\Unity\Projects\Make a Game - Tutorials\3d Platformer Practice\Builds\Windows_FinalBetaBuild\FinalBetaBuild_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Filed\Programs\Unity\Projects\Make a Game - Tutorials\3d Platformer Practice\Builds\Windows_FinalBetaBuild\FinalBetaBuild_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.133 seconds
+Platform assembly: D:\Filed\Programs\Unity\Projects\Make a Game - Tutorials\3d Platformer Practice\Builds\Windows_FinalBetaBuild\FinalBetaBuild_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Filed\Programs\Unity\Projects\Make a Game - Tutorials\3d Platformer Practice\Builds\Windows_FinalBetaBuild\FinalBetaBuild_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 5760x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.578121 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2b10 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.406399 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 542.
+Total: 0.425983 ms (FindLiveObjects: 0.039204 ms CreateObjectMapping: 0.033060 ms MarkObjects: 0.332068 ms  DeleteObjects: 0.021065 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.938578 ms
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 506.
+Total: 1.627574 ms (FindLiveObjects: 0.059391 ms CreateObjectMapping: 0.047396 ms MarkObjects: 0.766537 ms  DeleteObjects: 0.753078 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.483913 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 749.
+Total: 0.275309 ms (FindLiveObjects: 0.029549 ms CreateObjectMapping: 0.025453 ms MarkObjects: 0.212406 ms  DeleteObjects: 0.007606 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.708333 ms
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 506.
+Total: 1.982756 ms (FindLiveObjects: 0.074020 ms CreateObjectMapping: 0.059099 ms MarkObjects: 0.993279 ms  DeleteObjects: 0.854893 ms)
+
